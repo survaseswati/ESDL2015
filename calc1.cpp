@@ -1,5 +1,8 @@
-int a,b;
+void main()
+{
+int a,b,c;
 a=20;
 b=30;
-int c=a+b;
+c=a+b;
 cout<<"c="<<c
+}
