@@ -1,3 +1,4 @@
+# include<iostrem>
 void main()
 {
 int a,b,c,d;
